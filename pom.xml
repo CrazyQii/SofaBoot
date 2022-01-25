@@ -5,12 +5,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.example</groupId>
-    <artifactId>SofaBoot</artifactId>
+    <artifactId>sofa-boot-guide</artifactId>
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
     <modules>
-        <module>sofa-boot-start</module>
-        <module>sofa-boot-module</module>
+        <module>sofa-boot-with-start</module>
     </modules>
 
     <properties>
